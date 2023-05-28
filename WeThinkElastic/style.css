@@ -10,6 +10,23 @@ body {
     background-color: #151414;
     width: 100vw;
 }
+/* intro-transitions */
+.intro-transition{
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F3C77C;
+}
+.intro-transition img{
+    height: 7cm;
+    position: absolute;
+    background-color: #F3C77C;
+}
+
 
 /* header section */
 header {
